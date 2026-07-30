@@ -1,2 +1,2 @@
 # Machine_Learning_Evolution_Equations
-Code and computational experiments for Machine Learning Evolution Equations (Book)
+Code and computational experiments for Machine Learning Evolution Equations (De Gruyter Book)
