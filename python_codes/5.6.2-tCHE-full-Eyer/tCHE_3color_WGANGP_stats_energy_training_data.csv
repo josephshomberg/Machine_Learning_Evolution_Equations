@@ -1,0 +1,1 @@
+iteration,critic_loss,generator_loss,adversarial_loss,mae_loss,energy_loss,mean_loss,variance_loss,mass_loss,purity_loss,gradient_loss,simplex_loss,residual_loss,entropy_loss,hf_loss
