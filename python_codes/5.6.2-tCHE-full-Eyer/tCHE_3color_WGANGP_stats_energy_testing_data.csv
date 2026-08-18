@@ -1,1 +1,0 @@
-iteration,samples,mae,energy_error,mean_error,variance_error,mass_error,purity_error,gradient_error,simplex_error,residual_error,gen_min,gen_max,gen_sum_min,gen_sum_max,gen_mean_c1,gen_mean_c2,gen_mean_c3,gen_var_c1,gen_var_c2,gen_var_c3
